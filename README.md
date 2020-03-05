@@ -1,1 +1,2 @@
-# cdn
+# cnd
+jsDeliver Cdn
